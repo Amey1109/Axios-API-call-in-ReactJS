@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: block;
+  border: solid black;
+  margin: 2%;
+  padding: 0.9%;
+  padding-left: 3%;
+  text-align: center;
+}
+
+.main {
+  display: block;
+  border: 2px solid black;
+  margin-left: 24%;
+  margin-right: 24%;
+  margin-top: 6%;
+  margin-bottom: 3%;
+}
+
+h1 {
+  padding: 3%;
+  background-color: lightseagreen;
+  margin: 0%;
+  display: block;
+  text-align: center;
+}
+.basic {
+  margin: 4%;
+  text-align: center;
+}
